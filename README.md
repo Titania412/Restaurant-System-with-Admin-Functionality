@@ -1,6 +1,6 @@
 # Restaurant-System-with-Admin-Functionality
 
-I create a database driven restaurant menu ordering system. The menu will include options for selecting: 
+I create a database driven restaurant menu ordering system. The menu will include options for selecting: <br>
 &emsp; ● Restaurant Information  
 &emsp; ● Admin Menu <br>
 &emsp; ● Start New Order
