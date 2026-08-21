@@ -35,6 +35,6 @@ Table:
 <img width="751" height="849" alt="image" src="https://github.com/user-attachments/assets/ba000607-f278-4c27-860d-46ab0161da3c" />
 <img width="691" height="722" alt="image" src="https://github.com/user-attachments/assets/3182edbc-c537-4025-ac01-166f92260d2b" />
 
-<br>Notes:
+<br>Notes: <br>
 ● To reset the AUTOINCREMENT, use this command: <br>
 &emsp; ● DELETE from sqlite_sequence where name='table_name'; 
