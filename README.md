@@ -31,15 +31,15 @@ Order_items table:
 <img width="764" height="206" alt="image" src="https://github.com/user-attachments/assets/2b2ec507-ad99-4038-abd9-24af7c7c98bf" />
 
 Specifications:
-main function 
-  ● Admin Menu 
-      ● Create menu table 
-      ● Create orders table 
-      ● Create order_items table 
-      ● Create customers table 
-      ● View all menu items 
-      ● View all customers table 
-      ● View past orders 
+main function <br>
+  ● Admin Menu <br>
+      ● Create menu table <br>
+      ● Create orders table <br>
+      ● Create order_items table <br>
+      ● Create customers table <br>
+      ● View all menu items <br>
+      ● View all customers table <br>
+      ● View past orders <br>
           ○ Show all past order numbers  
           ○ Ask the user for the order number 
               - Display the items in the order number 
