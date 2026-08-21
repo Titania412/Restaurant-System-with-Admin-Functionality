@@ -1,4 +1,4 @@
-# Restaurant-System-with-Admin-Functionality
+# Restaurant-Ordering-System-with-Admin-Functionality
 
 I create a database driven restaurant menu ordering system. The menu will include options for selecting: 
 
