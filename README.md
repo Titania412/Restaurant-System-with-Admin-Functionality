@@ -38,4 +38,4 @@ Table:
 <br>Notes:
 
 ● To reset the AUTOINCREMENT, use this command: <br>
-<p style="text-indent: 50px;"> ● DELETE from sqlite_sequence where name='table_name'; </p>
+<p style="text-indent: 50px"> ● DELETE from sqlite_sequence where name='table_name'; </p>
