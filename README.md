@@ -2,9 +2,9 @@
 
 I create a database driven restaurant menu ordering system. The menu will include options for selecting: 
   
-  ● Restaurant Information  
-  ● Admin Menu <br>
-  ● Start New Order
+&emsp; ● Restaurant Information  
+&emsp; ● Admin Menu <br>
+&emsp; ● Start New Order
 
 I use Python code to create table in phpLiteAdmin
 
@@ -38,4 +38,4 @@ Table:
 <br>Notes:
 
 ● To reset the AUTOINCREMENT, use this command: <br>
-<p style="text-indent: 50px"> ● DELETE from sqlite_sequence where name='table_name'; </p>
+&emsp; ● DELETE from sqlite_sequence where name='table_name'; </p>
