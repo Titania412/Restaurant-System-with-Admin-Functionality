@@ -1,12 +1,12 @@
 # Restaurant-Ordering-System-with-Admin-Functionality
 
-I create a database driven restaurant menu ordering system. The menu will include options for selecting: 
+In this project, I created a database driven restaurant menu ordering system. The menu will include options for selecting: 
 
 &emsp; ● Restaurant Information  
 &emsp; ● Admin Menu <br>
 &emsp; ● Start New Order
 
-I use Python code to create table in phpLiteAdmin
+I used Python code to create tables in phpLiteAdmin.
 
 Table:
 
@@ -37,4 +37,4 @@ Table:
 
 <br>Notes:
 ● To reset the AUTOINCREMENT, use this command: <br>
-&emsp; ● DELETE from sqlite_sequence where name='table_name'; </p>
+&emsp; ● DELETE from sqlite_sequence where name='table_name'; 
